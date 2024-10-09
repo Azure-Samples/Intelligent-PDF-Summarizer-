@@ -1,0 +1,16 @@
+{
+  "version": "2.0",
+  "logging": {
+    "fileLoggingMode": "always",
+    "logLevel": {
+      "default": "Warning",
+      "Host": "Information",
+      "Function": "Information"
+    }
+  },
+  "extensionBundle": {
+      "id": "Microsoft.Azure.Functions.ExtensionBundle.Preview",
+      "version": "[4.*, 5.0.0)"
+  }
+}
+

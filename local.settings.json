@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "BLOB_STORAGE_ENDPOINT": "SharedAccessSignature=sv=2023-01-03&ss=btqf&srt=sco&st=2024-09-26T17%3A50%3A47Z&se=2024-11-30T18%3A50%3A00Z&sp=rwdxftlacup&sig=KpS1W0hjUYOoGS8bAIhmsHFWgzOp0Sbv6DecDj3X20Y%3D;BlobEndpoint=http://127.0.0.1:10000/devstoreaccount1;FileEndpoint=http://devstoreaccount1.file.core.windows.net;QueueEndpoint=http://127.0.0.1:10001/devstoreaccount1;TableEndpoint=http://127.0.0.1:10002/devstoreaccount1;",
+    "AzureWebJobsSecretStorageType": "files",
+    "COGNITIVE_SERVICES_ENDPOINT": "https://ng-document-processing.cognitiveservices.azure.com/",
+    "AZURE_OPENAI_ENDPOINT": "https://torosentwus3.openai.azure.com/",
+    "AZURE_OPENAI_KEY": "d6ba9a5af2944052b035529d4f87e10b",
+    "CHAT_MODEL_DEPLOYMENT_NAME": "gpt-4o"
+  }
+}
